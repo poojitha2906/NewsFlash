@@ -26,7 +26,7 @@ NewsHub is a web application that provides users with the latest news articles f
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/poojitha2906/NewsFlash
+git clone https://github.com/poojitha2906/NewsFlash.git
 ```
 
 2. Open the project in your preferred code editor.
