@@ -8,6 +8,9 @@ NewsHub is a web application that provides users with the latest news articles f
 - Search for specific news topics or keywords.
 - Click on an article to view the full content in a new tab.
 
+## This is how NewsFlash looks like
+<img src="./Web app.jpg"/>
+
 ## Technologies Used
 
 - HTML
